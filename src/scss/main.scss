@@ -174,7 +174,7 @@ body::after {
     flex-direction: column;
     align-items: center;
     justify-content: space-between;
-    height: 100%;
+    height: auto;
 }
 .left-section::before {
     content: '';
@@ -225,7 +225,7 @@ body::after {
     }
 }
 
-@media (max-width: 1024px) {
+@media (max-width: 905px) {
     .sections {
         flex-direction: column; 
         align-items: stretch;

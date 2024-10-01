@@ -1,7 +1,7 @@
 {
   "name": "test_task_web",
-  "version": "0.5.0",
-  "description": "test vers",
+  "version": "1.0.0",
+  "description": "final vers",
   "main": "index.js",
   "scripts": {
     "start": "cross-env SERVE=true webpack serve",
